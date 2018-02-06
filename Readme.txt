@@ -1,1 +1,1 @@
-This repository contains projects implemented as part of the Distributed and Parallel Database systems coursework.
+This project is an implementation of parallel operations such as Parallel Sort and Parallel Join.
