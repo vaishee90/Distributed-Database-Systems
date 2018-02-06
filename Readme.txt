@@ -1,0 +1,1 @@
+This repository contains projects implemented as part of the Distributed and Parallel Database systems coursework.
