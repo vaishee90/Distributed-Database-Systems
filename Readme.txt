@@ -1,1 +1,1 @@
-This repository contains projects implemented as part of the Distributed and Parallel Database systems coursework.
+This project involves designing a query processor which helps in retrieving data based on a range or a certain value.
