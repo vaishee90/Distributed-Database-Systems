@@ -1,3 +1,5 @@
+This project is an implementation of the concept of MapReduce.
+
 Mapper:
 ======
 - The EquiJoinMapper class contains a 'map' method which takes each line from the input file in the HDFS location and sets the the key value pair respectively. 
