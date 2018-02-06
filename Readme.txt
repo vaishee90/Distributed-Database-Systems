@@ -1,1 +1,1 @@
-This repository contains projects implemented as part of the Distributed and Parallel Database systems coursework.
+This project shows how a database can partitioned range-wise or in a round-robin fashion and queried for data.
